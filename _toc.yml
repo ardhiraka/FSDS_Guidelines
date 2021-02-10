@@ -2,7 +2,24 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+
+- part: Get started
+  chapters:
+  - file: start/phase_overview
+    sections:
+      - file: start/p0_overview
+      - file: start/p1_overview
+      - file: start/p2_overview
+
+- part: Phase 0
+  chapters:
+  - file: p0/start
+    title: Welcome to Phase 0
+- part: Phase 1
+  chapters:
+  - file: p1/start
+    title: Welcome to Phase 1
+- part: Phase 2
+  chapters:
+  - file: p2/start
+    title: Welcome to Phase 2

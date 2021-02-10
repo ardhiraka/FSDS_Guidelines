@@ -3,12 +3,14 @@
 
 title: Fulltime Data Science Materials Guidelines
 author: Hacktiv8 Ai Curriculum Team
-logo: logo.png
+logo: images/logo.png
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", example]
+only_build_toc_files: true
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: off
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -28,5 +30,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: true
-  use_repository_button: true
+  use_issues_button: false
+  use_repository_button: false
+  use_edit_page_button: false
+  favicon: images/favicon.ico
