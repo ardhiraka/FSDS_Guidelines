@@ -1,7 +1,6 @@
 Welcome to
 
-Hacktiv8 Data Science Fulltime Program
-============================
+# Hacktiv8 Data Science Fulltime Program
 
 ## Overview Program
 

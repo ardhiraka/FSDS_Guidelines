@@ -6,10 +6,8 @@
 - part: Get started
   chapters:
   - file: start/phase_overview
-    sections:
-      - file: start/p0_overview
-      - file: start/p1_overview
-      - file: start/p2_overview
+  - file: start/terminology
+  - file: start/preparation
 
 - part: Phase 0
   chapters:
