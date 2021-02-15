@@ -8,11 +8,16 @@
   - file: start/phase_overview
   - file: start/terminology
   - file: start/preparation
+  - file: start/productivity
 
 - part: Phase 0
   chapters:
   - file: p0/start
     title: Welcome to Phase 0
+  - file: p0/w1
+    title: Week 1
+    sections:
+      - file: p0/w1/s1
 - part: Phase 1
   chapters:
   - file: p1/start
