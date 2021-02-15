@@ -18,6 +18,9 @@
     title: Week 1
     sections:
       - file: p0/w1/s1
+        title: Day 1 with Notebook Example
+      - file: p0/w1/s1pm
+        title: Day 2 with Interactive Notebook Example
 - part: Phase 1
   chapters:
   - file: p1/start
