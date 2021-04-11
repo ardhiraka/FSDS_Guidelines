@@ -14,13 +14,122 @@
   chapters:
   - file: p0/start
     title: Welcome to Phase 0
-  - file: p0/w1
+  - file: p0/w1/misc/w1
     title: Week 1
     sections:
-      - file: p0/w1/s1
-        title: Day 1 with Notebook Example
-      - file: p0/w1/s1pm
-        title: Day 2 with Interactive Notebook Example
+      - file: p0/w1/d1am
+        title: Day 1 AM
+      - file: p0/w1/d1pm
+        title: Day 1 PM
+      - file: p0/w1/d2am
+        title: Day 2 AM
+      - file: p0/w1/d2pm
+        title: Day 2 PM
+      - file: p0/w1/assignments/NG1
+      - file: p0/w1/d3am
+        title: Day 3 AM
+      - file: p0/w1/d3pm
+        title: Day 3 PM
+      - file: p0/w1/assignments/NG2
+      - file: p0/w1/d4am
+        title: Day 4 AM
+      - file: p0/w1/d4pm
+        title: Day 4 PM
+      - file: p0/w1/d5am
+        title: Day 5 AM
+      - file: p0/w1/d5pm
+        title: Day 5 PM
+      - file: p0/w1/assignments/G1
+  - file: p0/w2/misc/w2
+    title: Week 2
+    sections:
+      - file: p0/w2/assignments/LC1
+      - file: p0/w2/d1am
+        title: Day 1 AM
+      - file: p0/w2/d1pm
+        title: Day 1 PM
+      - file: p0/w2/assignments/NG3
+      - file: p0/w2/d2am
+        title: Day 2 AM
+      - file: p0/w2/assignments/NG4
+      - file: p0/w2/d2pm
+        title: Day 2 PM
+      - file: p0/w2/assignments/NG5
+      - file: p0/w2/d3am
+        title: Day 3 AM
+      - file: p0/w2/assignments/NG6
+      - file: p0/w2/d3pm
+        title: Day 3 PM
+      - file: p0/w2/d4am
+        title: Day 4 AM
+      - file: p0/w2/assignments/NG7
+      - file: p0/w2/d4pm
+        title: Day 4 PM
+      - file: p0/w2/assignments/NG8
+      - file: p0/w2/d5am
+        title: Day 5 AM
+      - file: p0/w2/assignments/NG9
+      - file: p0/w2/d5pm
+        title: Day 5 PM
+      - file: p0/w2/assignments/G2
+  - file: p0/w3/misc/w3
+    title: Week 3
+    sections:
+      - file: p0/w3/assignments/LC2
+      - file: p0/w3/d1am
+        title: Day 1 AM
+      - file: p0/w3/d1pm
+        title: Day 1 PM
+      - file: p0/w3/d2am
+        title: Day 2 AM
+      - file: p0/w3/assignments/NG10
+      - file: p0/w3/d2pm
+        title: Day 2 PM
+      - file: p0/w3/d3am
+        title: Day 3 AM
+      - file: p0/w3/d3pm
+        title: Day 3 PM
+      - file: p0/w3/assignments/NG11
+      - file: p0/w3/d4am
+        title: Day 4 AM
+      - file: p0/w3/d4pm
+        title: Day 4 PM
+      - file: p0/w3/assignments/NG12
+      - file: p0/w3/d5am
+        title: Day 5 AM
+      - file: p0/w3/d5pm
+        title: Day 5 PM
+      - file: p0/w3/assignments/G3
+  - file: p0/w4/misc/w4
+    title: Week 4
+    sections:
+      - file: p0/w4/assignments/LC3
+      - file: p0/w4/d1am
+        title: Day 1 AM
+      - file: p0/w4/d1pm
+        title: Day 1 PM
+      - file: p0/w4/assignments/NG13
+      - file: p0/w4/d2am
+        title: Day 2 AM
+      - file: p0/w4/d2pm
+        title: Day 2 PM
+      - file: p0/w4/assignments/NG14
+      - file: p0/w4/d3am
+        title: Day 3 AM
+      - file: p0/w4/assignments/NG15
+      - file: p0/w4/d3pm
+        title: Day 3 PM
+      - file: p0/w4/assignments/NG16
+      - file: p0/w4/d4am
+        title: Day 4 AM
+      - file: p0/w4/assignments/NG17
+      - file: p0/w4/d4pm
+        title: Day 4 PM
+      - file: p0/w4/d5am
+        title: Day 5 AM
+      - file: p0/w4/d5pm
+        title: Day 5 PM
+      - file: p0/w4/assignments/Milestones1
 - part: Phase 1
   chapters:
   - file: p1/start

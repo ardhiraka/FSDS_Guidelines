@@ -2,3 +2,4 @@ _build/
 .vscode
 .ipynb_checkpoints
 venv/
+.DS_Store
