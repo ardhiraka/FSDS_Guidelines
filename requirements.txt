@@ -1,4 +1,7 @@
 jupyter-book
 matplotlib
+seaborn
 numpy
 pandas
+pandas-profiling
+scikit-learn
