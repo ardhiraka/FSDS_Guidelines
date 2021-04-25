@@ -17,7 +17,7 @@ _Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 D
 
 ## Assignment Submission
 
-- Simpan assignment pada sesi ini dengan nama h8dsft_converter.
+- Simpan assignment pada sesi ini dengan nama `h8dsft_converter`.
 - Push Assigment yang telah kalian buat ke akun Github kalian masing-masing.
 
 ## Assignment Objectives
