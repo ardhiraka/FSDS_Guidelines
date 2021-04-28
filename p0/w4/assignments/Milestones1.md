@@ -4,66 +4,44 @@
 This page is still on development.
 ```
 
-_Milestones ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 1._
+_Milestones ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 0._
 
 ---
 
 ## Dataset Description
 
-Unduh dataset yang akan digunakan [disini](https://www.kaggle.com/abcsds/pokemon).
-
-This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
-
-The feature of this data is:
-
-- #: ID for each pokemon
-- Name: Name of each pokemon
-- Type 1: Each pokemon has a type, this determines weakness/resistance to attacks
-- Type 2: Some pokemon are dual type and have 2
-- Total: sum of all stats that come after this, a general guide to how strong a pokemon is
-- HP: hit points, or health, defines how much damage a pokemon can withstand before fainting
-- Attack: the base modifier for normal attacks (eg. Scratch, Punch)
-- Defense: the base damage resistance against normal attacks
-- SP Atk: special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)
-- SP Def: the base damage resistance against special attacks
-- Speed: determines which pokemon attacks first each round
+Unduh dataset yang akan digunakan [disini](https://www.kaggle.com/aungpyaeap/supermarket-sales).
 
 ## Assignment Instructions
 
-*Milestones 1* dikerjakan dalam format ***notebook*** dengen beberapa **kriteria wajib** di bawah ini:
+*Milestones 1* dikerjakan dalam bentuk dashboard dengan dash dengan beberapa **kriteria wajib** di bawah ini:
 
-1. *Library* yang digunakan adalah **Numpy** dan **Pandas**.
-2. *Project* dinyatakan selesai dan diterima untuk dinilai jika saat dilakukan `Run All` pada *notebook*, semua *cell* berhasil tereksekusi sampai akhir.
-3. Isi *notebook* harus mengikuti *outline* di bawah ini:
-   1. Perkenalan\
-   Bab pengenalan harus diisi dengan identitas, gambaran besar dataset yang digunakan, dan *objective* yang ingin dicapai.
-   2. *Import* pustaka yang dibutuhkan\
-   *Cell* pertama pada *notebook* **harus berisi dan hanya berisi** semua *library* yang digunakan dalam *project*.
-   3. *Data Loading*\
-   Bagian ini berisi proses *data loading* yang kemudian dilanjutkan dengan *explorasi data* secara sederhana.
-   4. *Data Cleaning*\
-   Bagian ini berisi proses penyiapan data berupa data cleaning sebelum dilakukan *explorasi data* lebih lanjut. Proses cleaning dapat berupa memberi nama baru untuk setiap kolom, mengisi missing values, menghapus kolom yang tidak dipakai, dan lain sebagainya.
-   5. *Explorasi Data*\
-   Bagian ini berisi explorasi data pada dataset diatas dengan menggunakan query, grouping, visualisasi sederhana, dan lain sebagainya.
-   6. Pengambilan Kesimpulan\
-   Pada bab terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan dibandingkan dengan *objective* yang sudah ditulis di bagian pengenalan.
-4. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
+1. *Library* utama yang digunakan adalah **Dash**.
+2. *Project* dinyatakan selesai dan diterima untuk dinilai jika sudah di-deploy ke Heroku.
+3. Dashboard yang dibuat terdiri dari 2 layout: Visualisasi dan Hypothesis Testing
+4. Untuk Layout Visualisasi:
+   1. Minimal ada 4 figure yang ditampilkan dalam halaman.
+   2. Ada callback untuk interactivity figure yang telah dibuat.
+5. Untuk Layout Hypothesis Testing:
+   1. Buatlah 1 hypothesis testing terhadap dataset yang ada.
+   2. Tulis proses testing serta hasil analisa dalam bentuk Markdown pada layout hypothesis testing.
+6. Tetap lakukan cleaning dan preprocessing pada data. Data yang ditampilkan pada dashboard adalah data clean yang telah melalui proses preprocessing. Melampirkan notebook proses preprocessing akan mendapatkan nilai tambah.
+7. Deploy dashboard yang telah dibuat ke heroku dengan format url berupa `nama-batch.herokuapp.com`.
+8. Presentasikan dashboard yang telah dibuat pada W4D5PM.
 
 ## Assignment Submission
 
 - Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone1`.
+- Tambahkan url deployment kedalam README file.
 - Push Assigment yang telah kalian buat ke akun Github kalian masing-masing.
 
 ## Assignment Objectives
 
-*Milestones 1* ini dibuat guna mengevaluasi kPractical Statistics sebagai berikut:
+*Milestones 1* ini dibuat guna mengevaluasi Pembelajaran Phase 0 sebagai berikut:
 
-- Mampu memuat data dengan Pandas
-- Mampu menangani missing values pada dataset
-- Mampu melakukan manipulasi kolom
-- Mampu membuat query terhadap dataset
-- Mampu melakukan grouping terhadap dataset
-- Mampu melakukan visualisasi sederhana menggunakan Pandas
+- Mampu melakukan hypothesis testing terhadap dataset yang diberikan.
+- Mampu membuat dashboard interaktif terhadap dataset yang diberikan.
+- Mampu mempresentasikan hasil visualisasi data dan temuan.
 
 ---
 
@@ -73,18 +51,15 @@ The feature of this data is:
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Data Loading|Mampu memuat data dengan Pandas| 1 pts |
-|Missing Value|Mampu menangani missing values; tidak ada missing values dalam dataset| 5 pts |
-|Manipulating Columns|Mampu mengganti nama kolom; Mampu menghapus kolom yang tidak digunakan| 2 pts |
-|Data Query|Mampu membuat minimal 3 query data| 5 each (max 15) |
-|Grouping and Aggregating|Mampu melakukan pengelompokan data minimal 3 kelompok| 5 each (max 15) |
-|Pandas Visualization|Mampu membuat Bar Plot dengan Pandas| 2 pts |
+|Dash Figure|Mampu membuat minimal 4 figure dengan dash| 20 pts each (Max 80) |
+|Dash Callback|Mampu membuat callback dengan dash| 50 pts |
+|Hypothesis Testing|Mampu melakukan hypothesis testing dan menampilkannya dengan dash| 50 pts |
 
 ### Readability
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Tertata Dengan Baik|Semua Cell Di Notebook Terdokumentasi Dengan Baik Dengan Markdown Pada Tiap Cell Untuk Penjelasan Kode.| 10 pts |
+|Tertata Dengan Baik|Semua baris kode terdokumentasi Dengan Baik Dengan Markdown Untuk Penjelasan Kode.| 10 pts |
 
 ### Analysis
 
@@ -95,5 +70,9 @@ The feature of this data is:
 ---
 
 ```{admonition} Total Points
-**60**
+**200**
+```
+
+```{tip}
+Penilaian pada milestone dapat bersifat subyektif tergantung daripada layout yang dibuat, jenis callback, kekayaan fitur, dan lain sebagainya diluar dari rubric yang tertera.
 ```
