@@ -1,4 +1,4 @@
-# Non Graded Challenge 9
+# Milestones 2
 
 ```{attention}
 This page is still on development.
