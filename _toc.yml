@@ -244,3 +244,11 @@
   chapters:
   - file: p2/start
     title: Welcome to Phase 2
+- part: Training Labs
+  chapters:
+  - file: extras/greenhorn/testing
+    title: Python Testing
+  - file: extras/maven/graphtheory
+    title: Graph Theory
+  - file: extras/datamancer/bandit
+    title: Contextual Bandit

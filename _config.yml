@@ -3,6 +3,7 @@
 
 title: Fulltime Data Science Materials Guidelines
 author: Hacktiv8 Ai Curriculum Team
+copyright: "2021"
 logo: images/logo.png
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", example]
 only_build_toc_files: true
@@ -39,3 +40,4 @@ launch_buttons:
   colab_url: "https://colab.research.google.com"
   binderhub_url: "https://mybinder.org"
   notebook_interface: "jupyterlab"
+  thebe: true
