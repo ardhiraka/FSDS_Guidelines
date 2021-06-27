@@ -1,9 +1,5 @@
 # Milestones 1
 
-```{attention}
-This page is still on development.
-```
-
 _Milestones ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 0._
 
 ---

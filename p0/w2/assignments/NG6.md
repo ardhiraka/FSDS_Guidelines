@@ -1,9 +1,5 @@
 # Non Graded Challenge 6
 
-```{attention}
-This page is still on development.
-```
-
 _Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Linear Algebra._
 
 ---
