@@ -1,12 +1,16 @@
 # Non Graded Challenge 4
 
+```{attention}
+This page is still on development.
+```
+
 _Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Linear Algebra._
 
 ---
 
 ## Assignment Instructions
 
-- Buatlah Vector dibawah ini dengan Python:
+1. Buatlah Vector dibawah ini dengan Python:
 
   $$
   \begin{bmatrix}
@@ -16,47 +20,35 @@ _Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 D
   \end{bmatrix}
   $$
 
-- Buatlah Matrix dibawah ini dengan Python:
+2. Diberikan 3 buah vektor 3 dimensi:
+$$
+A=
+\begin{bmatrix}
+17 \\
+22 \\
+19
+\end{bmatrix}
+,B=
+\begin{bmatrix}
+10 \\
+20 \\
+11
+\end{bmatrix},
+C=
+\begin{bmatrix}
+5 \\
+12 \\
+9
+\end{bmatrix}
+$$
 
-  $$
-  \begin{bmatrix}
-  23 & 50 & 19 \\
-  7 & 12 & 109 \\
-  57 & 67 & 98
-  \end{bmatrix}
-  $$
-
-- Buatlah Tensor dibawah ini dengan Python:
-
-  $$
-  \begin{bmatrix}   \begin{bmatrix}   23 & 50 \\   7 & 12 \\   \end{bmatrix}   \begin{bmatrix}   57 & 67 \\   99 & 43   \end{bmatrix} \\    \begin{bmatrix}   75 & 21 \\   57 & 12 \\   \end{bmatrix}   \begin{bmatrix}   87 & 26 \\   18 & 84   \end{bmatrix}   \end{bmatrix}
-  $$
-
-- Lakukan perkalian terhadap matrix berikut:
-
-  $$
-  A =
-  \begin{bmatrix}
-  23 & 50 & 19 \\
-  7 & 12 & 109 \\
-  57 & 67 & 98
-  \end{bmatrix}
-  \begin{bmatrix}
-  17 \\
-  22 \\
-  19
-  \end{bmatrix}
-  $$
-
-- Lakukan Transpose terhadap matrix dibawah ini:
-
-  $$
-  \begin{bmatrix}
-  23 & 50 & 19 \\
-  7 & 12 & 109 \\
-  57 & 67 & 98
-  \end{bmatrix}
-  $$
+Hitunglah:
+  - A+B
+  - B-C
+  - A dot C
+  - A x B
+  - norm A
+  - Sudut antara vektor A dan B
 
 - Buatlah plot dari vector berikut ini kedalam bidang 2D:
 
@@ -81,6 +73,5 @@ _Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 D
 Non-Graded Assignment ini dibuat guna mengevaluasi konsep Linear Algebra sebagai berikut:
 
 - Memahami konsep Scalar dan Vectors
-- Memahami konsep Matrices and Tensors
-- Mampu membuat Scalar, Vector, Matrices, dan Tensor dengan Python
-- Mampu menerapkan operasi aritmatika terhadap Scalar, Vector, Matrices, dan Tensor
+- Mampu membuat Scalar dan Vectordengan Python
+- Mampu menerapkan operasi aritmatika terhadap Scalar dan Vector

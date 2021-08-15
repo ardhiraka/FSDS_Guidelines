@@ -1,9 +1,13 @@
 # Live Code 1
 
+```{attention}
+This page is still on development.
+```
+
+
 ## Instruction
 
 Live Code ini dikerjakan dalam format ***notebook*** isi *notebook* harus mengikuti *outline* di bawah ini:
-
 1. Perkenalan\
    Bab pengenalan harus diisi dengan identitas
 2. **Judul/Penanda Soal**\
@@ -37,16 +41,14 @@ P=VI
 - V adalah tegangan dalam satuan Volt
 
 Hitung kapasitas baterai tiap waktunya untuk cycle ganjil dan daya baterai tiap waktunya untuk cycle genap dari dataset dengan ketentuan sebagai berikut:
-
 1. Gunakan function untuk menghitung hambatan dan daya
 2. **Harus** menerapkan konsep looping, conditional if, dan pandas query
 
-## Dataset
 
+## Dataset
 Dataset dapat diakses pada link berikut: https://github.com/fahmimnalfrzki/Dataset/blob/main/NMC1-9.xlsx?raw=true
 
 **Keterangan kolom:**
-
 - time(s): Detik ke- pengukuran
 - $V_m$: Voltage/tegangan yang terukur tiap waktu
 - Current (A): Kuat arus terukur tiap waktu
@@ -72,6 +74,7 @@ Dataset dapat diakses pada link berikut: https://github.com/fahmimnalfrzki/Datas
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
 |Tertata Dengan Baik|Semua Cell Di Notebook Terdokumentasi Dengan Baik Dengan Markdown Pada Tiap Cell Untuk Penjelasan Kode.| 8 pts |
+
 
 ---
 
