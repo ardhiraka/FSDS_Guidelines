@@ -1,4 +1,4 @@
-# Milestones 2
+# Phase 1 Milestone 2
 
 ```{attention}
 This page is still on development.
@@ -74,13 +74,14 @@ Other pages listing many popular open data repositories
    Pada bab terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan dibandingkan dengan *objective* yang sudah ditulis di bagian pengenalan.
 5. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
 6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (Jika melakukan model deployment).
-7. Presentasikan model yang telah dibuat pada W4D5PM.
+7. Presentasikan model yang telah dibuat pada P2W1D4AM.
 
 ## Assignment Submission
 
-- Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone2`.
+- Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone2P1`.
 - Tambahkan url deployment kedalam README file.
-- Push Assigment yang telah kalian buat ke akun Github kalian masing-masing.
+- Push Assigment yang telah kalian buat ke akun Github organization.
+- Buat nama branch dengan nama lengkap. Contoh : `raka_ardhi`
 
 ## Assignment Objectives
 
@@ -100,8 +101,8 @@ Other pages listing many popular open data repositories
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Feature Engineering|Mampu Melakukan Proses Feature Engineering| 50 pts|
-|Pipelines|Mampu membangun Pipeline | 60 pts |
+|Feature Engineering|Mampu Melakukan Proses Feature Engineering| 30 pts|
+|Pipelines|Mampu membangun Pipeline | 40 pts |
 |Modeling| Membuat Model dengan kasus yang dipilih Dengan Scikit-Learn | 40 pts |
 |Model Evaluation| Mampu Melakukan Model Evaluation Dengan Scikit-Learn | 30 pts |
 |Model Improvement| Mampu Melakukan Model Improvement Dengan Scikit-Learn | 40 pts |
@@ -118,15 +119,22 @@ Other pages listing many popular open data repositories
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Model Analysis| Menganalisa informasi dari model yang telah dibuat| 30 pts |
+|Model Analysis| Menganalisa informasi dari model yang telah dibuat.| 30 pts |
 |Overall Analysis|Menarik Informasi/Kesimpulan Dari Keseluruhan Kegiatan yang Dilakukan.| 20 pts |
+
+### Deployment (Bonus Point) (Optional)
+
+|Criteria|Meet Expectations|Points|
+|--- |--- |--- |
+|Deployment| Membuat webapps terhadap project yang telah dibuat.| 30 pts |
 
 ---
 
-```{admonition} Total Points
-**310**
+```{admonition} Total Points 
+** 270 (Tanpa Deployment) **
+** 300 (Dengan Deployment) **
 ```
 
 ```{tip}
-Penilaian pada milestone dapat bersifat subyektif tergantung daripada pemilihan algoritma, penulisan kesimpulan, presentasi dan lain sebagainya diluar dari rubric yang tertera.
+Penilaian pada milestone dapat bersifat subyektif tergantung daripada pemilihan algoritma, penulisan kesimpulan, presentasi dan lain sebagainya diluar dari rubrik yang tertera.
 ```
