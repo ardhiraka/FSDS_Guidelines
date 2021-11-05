@@ -42,7 +42,7 @@ Other pages listing many popular open data repositories
 
 ## Assignment Instructions
 
-*Milestones 1* dikerjakan dalam format *notebook* dengan/atau dengan *model deployment* (Opsional) dengan beberapa *kriteria wajib* di bawah ini:
+*Milestones 2* dikerjakan dalam format *notebook* dengan *model deployment* (opsional) dengan beberapa *kriteria wajib* di bawah ini:
 
 1. Machine learning framework yang digunakan adalah *Scikit-Learn*.
 2. Ada penggunaan library visualisasi, seperti *matplotlib* atau *seaborn*.
@@ -65,15 +65,15 @@ Other pages listing many popular open data repositories
    1. *Pelatihan Model*\
    Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan.
    1. *Evaluasi Model*\
-   Pada bagian ini, dilakukan evaluasi model yang harus menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini harus dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model. Jika memilih untuk melakukan model deployment, lanjut ke poin dibawah. Jika tidak, lanjut ke poin 11 dan 12.
+   Pada bagian ini, dilakukan evaluasi model yang harus menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini harus dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model.
    1. *Model Saving*\
    Dengan melihat hasil evaluasi model, pilih model terbaik untuk disimpan. Model terbaik ini akan digunakan kembali dalam melakukan deployment di Heroku.
    1. *Model Inference*\
    Bagian ini diisi dengan model inference, di mana model yang sudah kita latih akan dicoba pada data selain data yang sudah tersedia. Data yang dimaksud bisa berupa data buatan oleh student, ataupun data yang ada pada internet.
    1. *Pengambilan Kesimpulan*\
    Pada bab terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan dibandingkan dengan *objective* yang sudah ditulis di bagian pengenalan.
-5. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
-6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (Jika melakukan model deployment).
+5. *Notebook* harus diupload dalam akun GitHub organization untuk selanjutnya dinilai.
+6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (jika melakukan model deployment).
 7. Presentasikan model yang telah dibuat pada P2W1D4AM.
 
 ## Assignment Submission
@@ -81,7 +81,11 @@ Other pages listing many popular open data repositories
 - Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone2P1`.
 - Tambahkan url deployment kedalam README file.
 - Push Assigment yang telah kalian buat ke akun Github organization.
-- Buat nama branch dengan nama lengkap. Contoh : `raka_ardhi`
+- **Buat nama branch dengan format :**
+   * Nama lengkap 
+   * Semua huruf lowercase
+   * Ganti spasi dengan *underscore (_)*
+   * Contoh : `raka_ardhi`
 
 ## Assignment Objectives
 
@@ -101,26 +105,26 @@ Other pages listing many popular open data repositories
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Feature Engineering|Mampu Melakukan Proses Feature Engineering| 30 pts|
+|Feature Engineering|Mampu melakukan proses Feature Engineering| 30 pts|
 |Pipelines|Mampu membangun Pipeline | 40 pts |
-|Modeling| Membuat Model dengan kasus yang dipilih Dengan Scikit-Learn | 40 pts |
-|Model Evaluation| Mampu Melakukan Model Evaluation Dengan Scikit-Learn | 30 pts |
-|Model Improvement| Mampu Melakukan Model Improvement Dengan Scikit-Learn | 40 pts |
+|Modeling| Membuat model dengan kasus yang dipilih dengan Scikit-Learn | 40 pts |
+|Model Evaluation| Mampu melakukan model evaluation dengan Scikit-Learn | 30 pts |
+|Model Improvement| Mampu melakukan model improvement dengan Scikit-Learn | 40 pts |
 |Model Inference| Mencoba model yang telah dibuat dengan data baru yang disediakan | 20 pts |
-|Apakah Kode Berjalan Tanpa Ada Error?|Kode Berjalan Tanpa Ada Error. Seluruh Kode Berfungsi Dan Dibuat Dengan Benar.| 10 pts |
+|Apakah Kode Berjalan Tanpa Ada Error?|Kode berjalan tanpa ada error. Seluruh kode berfungsi dan dibuat dengan benar.| 10 pts |
 
 ### Readability
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Tertata Dengan Baik|Semua baris kode terdokumentasi Dengan Baik Dengan Markdown Untuk Penjelasan Kode.| 10 pts |
+|Tertata Dengan Baik|Semua baris kode terdokumentasi dengan baik dengan menggunakan Markdown untuk penjelasan kode.| 10 pts |
 
 ### Analysis
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
 |Model Analysis| Menganalisa informasi dari model yang telah dibuat.| 30 pts |
-|Overall Analysis|Menarik Informasi/Kesimpulan Dari Keseluruhan Kegiatan yang Dilakukan.| 20 pts |
+|Overall Analysis|Menarik informasi/kesimpulan dari keseluruhan kegiatan yang dilakukan.| 20 pts |
 
 ### Deployment (Bonus Point) (Optional)
 
