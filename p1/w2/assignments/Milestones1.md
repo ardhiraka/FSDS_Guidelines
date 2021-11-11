@@ -10,7 +10,7 @@ _Milestones ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science
 
 ## Dataset Description
 
-Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
+Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing). Gunakan file dengan nama `bank-additional-full.csv`.
 
 ## Assignment Instructions
 
@@ -37,22 +37,20 @@ Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datase
    1. *Pelatihan Model*\
    Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan.
    1. *Evaluasi Model*\
-   Pada bagian ini, dilakukan evaluasi model yang harus menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini harus dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model. Jika memilih untuk melakukan model deployment, lanjut ke poin dibawah. Jika tidak, lanjut ke poin 11 dan 12.
-   1. *Model Saving*\
-   Dengan melihat hasil evaluasi model, pilih model terbaik untuk disimpan. Model terbaik ini akan digunakan kembali dalam melakukan deployment di Heroku.
+   Pada bagian ini, dilakukan evaluasi model yang harus menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini harus dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model.
    1. *Model Inference*\
-   Bagian ini diisi dengan model inference, di mana model yang sudah kita latih akan dicoba pada data selain data yang sudah tersedia. Data yang dimaksud bisa berupa data buatan oleh student, ataupun data yang ada pada internet.
+   Bagian ini diisi dengan model inference, dimana model yang sudah kita latih akan dicoba pada data selain data yang sudah tersedia. Data yang dimaksud bisa berupa data buatan oleh student, ataupun data yang ada pada internet.
    1. *Pengambilan Kesimpulan*\
    Pada bab terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan dibandingkan dengan *objective* yang sudah ditulis di bagian pengenalan.
-5. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
-6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (Jika melakukan model deployment).
-7. Presentasikan model yang telah dibuat pada W3D2AM.
+5. *Notebook* harus diupload dalam akun GitHub organization untuk selanjutnya dinilai.
+6. Penilaian project dilakukan berdasarkan *notebook*.
+7. Presentasikan model yang telah dibuat pada P1W3D2AM.
 
 ## Assignment Submission
 
 - Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone1`.
-- Tambahkan url deployment kedalam README file.
-- Push Assigment yang telah kalian buat ke akun Github kalian masing-masing.
+- Push Assigment yang telah kalian buat ke akun Github organization.
+- Buat nama branch dengan nama lengkap. Gunakan lowercase dan ganti spasi dengan underscore (_). Contoh : `raka_adhi`
 
 ## Assignment Objectives
 
@@ -72,7 +70,7 @@ Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datase
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Preprocessing|Mampu Melakukan Preproses Dataset Sebelum Melakukan Proses Modeling (Feature Scaling, Pipelines)| 10 pts each|
+|Preprocessing|Mampu Melakukan Preproses Dataset Sebelum Melakukan Proses Modeling (Feature Scaling, Pipelines)| 20 pts |
 |Logistic Regression| Mengimplementasikan Logistic Regression Dengan Scikit-Learn | 20 pts |
 |SVM| Mengimplementasikan SVM Dengan Scikit-Learn | 20 pts |
 |Decision Tree| Mengimplementasikan Decision Tree Dengan Scikit-Learn | 20 pts |
@@ -80,7 +78,7 @@ Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datase
 |KNN| Mengimplementasikan KNN Dengan Scikit-Learn | 20 pts |
 |Naive Bayes| Mengimplementasikan Naive Bayes Dengan Scikit-Learn | 20 pts |
 |Other Algorithm| Mengimplementasikan Algoritma lain selain yang tersebut diatas Dengan Scikit-Learn | 40 pts |
-|Cross Validation| Mengimplementasikan Cross Validation Dengan Scikit-Learn | 30 pts |
+|Cross Validation| Mengimplementasikan Cross Validation Dengan Scikit-Learn | 40 pts |
 |Grid Search| Mengimplementasikan Grid Search Dengan Scikit-Learn | 40 pts |
 |Model Inference| Mencoba model yang telah dibuat dengan data baru yang disediakan | 20 pts |
 |Apakah Kode Berjalan Tanpa Ada Error?|Kode Berjalan Tanpa Ada Error. Seluruh Kode Berfungsi Dan Dibuat Dengan Benar.| 10 pts |
@@ -101,7 +99,7 @@ Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datase
 ---
 
 ```{admonition} Total Points
-**340**
+**350**
 ```
 
 ```{tip}
