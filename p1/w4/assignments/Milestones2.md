@@ -79,8 +79,8 @@ Other pages listing many popular open data repositories
 ## Assignment Submission
 
 - Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone2P1`.
-- Tambahkan url deployment kedalam README file.
-- Push Assigment yang telah kalian buat ke akun Github organization.
+- Tambahkan URL deployment kedalam README file.
+- Push assignment yang telah kalian buat ke akun Github organization.
 - **Buat nama branch dengan format :**
    * Nama lengkap 
    * Semua huruf lowercase
