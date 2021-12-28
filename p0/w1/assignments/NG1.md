@@ -1,6 +1,6 @@
 # Non Graded Challenge 1
 
-_Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Looping._
+_Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep **Looping**._
 
 ---
 
@@ -14,8 +14,12 @@ _Non-Graded Assignment ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 D
     ]
   ```
 
-- Loop dan print semua angka genap dari list angka diatas dengan urutan yang sama. Jangan mencetak angka apa pun yang muncul setelah angka 918.
-- Tampilkan pesan 'Done' setelah looping berakhir.
+- Loop dan print semua angka genap dari list angka diatas dengan urutan yang sama.
+
+- Jangan mencetak angka apapun yang muncul setelah angka `918` berdasarkan posisi angka tersebut pada list diatas.
+
+- Tampilkan pesan `Done` setelah looping berakhir.
+
 
 ## Assignment Submission
 
