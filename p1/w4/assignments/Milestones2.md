@@ -16,7 +16,7 @@ Silakan memilih topik *Milestones 2* antara *Regression*, *Classification* atau 
 
 ## Data Sources
 
-Student dapat memilih dataset dari salah satu repository dibawah ini. Pilihlah dataset yang paling nyaman digunakan karena tidak ada batasan untuk memilih dataset dalam mengerjakan *Milestones 2*.
+Student dapat memilih dataset dari salah satu repository dibawah ini. Pilihlah dataset yang paling nyaman digunakan karena tidak ada batasan untuk memilih dataset dalam mengerjakan *Milestones 2*. Konsultasikan terlebih dahulu dataset yang hendak digunakan ke buddy masing-masing student. Jika disetujui, maka silakan dikerjakan. Jika tidak disetujui, maka cari dataset yang lain dan konsultasikan lagi mengenai dataset yang baru ini.
 
 Popular open data repositories
 
@@ -36,7 +36,7 @@ Other pages listing many popular open data repositories
 - [Quora.com](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [The datasets subreddit](https://www.reddit.com/r/datasets)
 - Sumber lain yang kredibel.
-- Student dilarang untuk melakukan scraping dataset karena dikhawatirkan proses pembuatan scraper dan scraping akan memakan waktu.
+- **Student dilarang untuk melakukan scraping dataset** karena dikhawatirkan proses pembuatan scraper dan proses scraping akan memakan waktu. Gunakan public dataset yang tersedia diberbagai macam situs Internet.
 
 ## Assignment Instructions
 
