@@ -47,7 +47,7 @@ Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datase
    10. Pengambilan Kesimpulan
        > Pada bagian terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan *objective* yang sudah ditulis di bagian pengenalan.
 
-5. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
+4. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
 
 ## Assignment Submission
 
