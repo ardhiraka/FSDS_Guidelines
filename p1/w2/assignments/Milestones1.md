@@ -32,7 +32,7 @@ Unduh dataset yang akan digunakan [disini](https://archive.ics.uci.edu/ml/datase
    5. Data Preprocessing
       > Bagian ini berisi proses penyiapan data untuk proses pelatihan model, seperti pembagian data menjadi train-dev-test, transformasi data (normalisasi, encoding, dll.), dan proses-proses lain yang dibutuhkan.
    
-  6. Model Definition
+   6. Model Definition
       > Bagian ini berisi cell untuk mendefinisikan model. Jelaskan alasan menggunakan suatu algoritma/model, hyperparameter yang dipakai, jenis penggunaan metrics yang dipakai, dan hal lain yang terkait dengan model.
 
    7. Model Training
