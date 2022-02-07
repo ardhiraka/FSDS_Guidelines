@@ -145,6 +145,8 @@ Other pages listing many popular open data repositories
 ```
 Total Points (tanpa Deployment)  : 270
 Total Points (dengan Deployment) : 300
+
+Catatan : Penilaian Milestone 2 juga dapat dipengaruhi oleh aktivitas student selama Phase 1 berlangsung, baik sesi kelas maupun sesi mentoring dengan buddy-nya masing-masing sehingga terdapat kemungkinan adanya penambahan atau pengurangan nilai diluar rubric yang telah disebutkan diatas.
 ```
 
 ---
