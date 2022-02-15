@@ -65,10 +65,8 @@ Unduh dataset yang akan digunakan [disini](https://www.kaggle.com/aungpyaeap/sup
 
 ---
 
-```{admonition} Total Points
-**200**
 ```
+Total Points : 200
 
-```{tip}
-Penilaian pada milestone dapat bersifat subyektif tergantung daripada layout yang dibuat, jenis callback, kekayaan fitur, dan lain sebagainya diluar dari rubric yang tertera.
+Catatan : Penilaian Milestone  juga dapat dipengaruhi oleh aktivitas student selama Phase 0 berlangsung, baik sesi kelas maupun sesi mentoring dengan buddy-nya masing-masing sehingga terdapat kemungkinan adanya penambahan atau pengurangan nilai diluar rubric yang telah disebutkan diatas.
 ```
