@@ -14,7 +14,7 @@ Langkah - langkah sebelum mengerjakan :
 Soal : Carilah dosen yang memiliki gaji tertinggi per masing-masing mata kuliah. Tampilkan semua atribut dosen dan semua atribut mata kuliahnya. Urutkan hasilnya berdasarkan nama mata kuliahnya secara ascending (A-Z).
 
 Hasil output yang diharapkan : 
-<img src="https://i.ibb.co/HdMVSFW/Phase-0-Output-NGC9-SQL.png">
+<img src="https://i.ibb.co/gM4QpXj/Phase-0-Output-NGC-9.png">
 
 ---
 ## Assignment Submission
