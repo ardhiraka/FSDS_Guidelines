@@ -108,12 +108,8 @@ Penilaian pada milestone dapat bersifat subyektif tergantung daripada pemilihan 
 
 ---
 
-## Score Reduction
+## Notes
 
-Pengurangan poin akan diberlakukan jika Student terlambat mengumpulkan tugas yang telah diberikan. Adapun besarnya pengurangan adalah : 
+* **Deadline : P1W3D3 pukul 23:59 WIB.**
 
-| Criteria | Max Points Milestone 1 |
-| --- | --- |
-| Keterlambatan kurang dari 1 hari setelah deadline | 262.5 pts (75 %) |
-| Keterlambatan antara 1-2 hari setelah deadline | 175 pts (50 %) |
-| Keterlambatan lebih dari 2 hari setelah deadline | 0 pts (0 %) |
+* **Keterlambatan pengumpulan tugas mengakibatkan skor Milestone 1 menjadi 0.**
