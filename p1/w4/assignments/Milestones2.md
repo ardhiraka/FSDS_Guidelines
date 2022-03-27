@@ -84,7 +84,7 @@ Other pages listing many popular open data repositories
 
 6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (jika melakukan Model Deployment).
 
-7. Presentasikan model yang telah dibuat pada P2W1D4PM.
+7. Presentasikan model yang telah dibuat pada P2W1D3AMPM.
 
 ## Assignment Submission
 
@@ -151,11 +151,8 @@ Catatan : Penilaian Milestone 2 juga dapat dipengaruhi oleh aktivitas student se
 
 ---
 
-## Score Reduction
+## Notes
 
-Pengurangan poin akan diberlakukan jika Student terlambat mengumpulkan tugas yang telah diberikan. Adapun besarnya pengurangan adalah : 
+* **Deadline : P1W4D4 pukul 18:00 WIB.**
 
-| Criteria | Max Points Milesone 2 |
-| --- | --- |
-| Keterlambatan kurang dari 6 jam setelah deadline | 75 % dari total points |
-| Keterlambatan lebih dari 6 jam setelah deadline | 0% dari total points |
+* **Keterlambatan pengumpulan tugas mengakibatkan skor Milestone 2 menjadi 0.**
