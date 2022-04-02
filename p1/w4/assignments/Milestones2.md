@@ -130,7 +130,7 @@ Other pages listing many popular open data repositories
 | --- | --- | --- |
 | Feature Engineering | Mampu melakukan proses Feature Engineering sebelum melakukan proses modeling | 30 pts |
 | Pipelines | Mampu membangun Pipeline | 40 pts |
-| Modeling | Membuat model dengan kasus yang dipilih dengan Scikit-Learn (minimal 4 algoritma berbeda) | 40 pts |
+| Modeling | Membuat model dengan kasus yang dipilih dengan Scikit-Learn **(minimal 4 algoritma berbeda)** | 40 pts |
 | Model Evaluation | Mampu melakukan model evaluation dengan Scikit-Learn | 30 pts |
 | Model Improvement | Mampu melakukan model improvement dengan Scikit-Learn | 40 pts |
 | Model Inference | Mencoba model yang telah dibuat dengan data baru | 20 pts |
