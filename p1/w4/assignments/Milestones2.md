@@ -101,7 +101,7 @@ Other pages listing many popular open data repositories
   * Buat sebuah file bernama `url.txt` yang berisi URL Dataset dan URL deployment.
   * Contoh bentuk isi repository dengan deployment.
     ```
-    ├── deployment
+    ├── deployment/
     │   ├── frontend.py
     │   └── backend.py
     │   └── model.pkl
