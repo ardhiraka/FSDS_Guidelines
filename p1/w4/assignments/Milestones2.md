@@ -21,7 +21,7 @@ Silakan memilih topik *Milestones 2* antara *Regression*, *Classification* atau 
 
 4. Student juga tidak boleh menggunakan dataset yang sudah dipakai dalam sesi pembelajaran saat dikelas bersama instruktur. Carilah dataset yang baru untuk tugas Milestone 2 ini.
 
-5 **Student dilarang untuk melakukan scraping dataset** karena dikhawatirkan proses pembuatan scraper dan proses scraping akan memakan waktu. Gunakan public dataset yang tersedia diberbagai macam situs Internet.
+5. **Student dilarang untuk melakukan scraping dataset** karena dikhawatirkan proses pembuatan scraper dan proses scraping akan memakan waktu. Gunakan public dataset yang tersedia diberbagai macam situs Internet.
 
 ### Data Sources
 Student dapat memilih dataset dari salah satu repository dibawah ini. Popular open data repositories
