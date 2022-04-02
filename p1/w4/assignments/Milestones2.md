@@ -8,17 +8,23 @@ Untuk *Milestones 2*, student akan membuat sebuah model machine learning dengan 
 
 ## Topik
 
-Silakan memilih topik *Milestones 2* antara *Regression*, *Classification* atau *Clustering*. Student juga dipersilakan memilih topik mengenai *Anomaly Detection*, *Novelty Detection* hingga *Dimensionality Reduction*. Beberapa contoh kasus dari masing-masing topik adalah sebagai berikut:
+Silakan memilih topik *Milestones 2* antara *Regression*, *Classification* atau *Clustering*.
 
-- Regression: [House Pricing](), [NYC Taxi Fare Prediction](), [Wallmart Sales in Stormy Weather](), dll
-- Classification: [SF Crime Classification](), [Wallmart Trip Type](), [Titanic](), dll
-- Clustering: [Human Activity Recognition](), [Credit Card Clustering](), [Household Electric Consumption](), dll
+## Dataset
 
-## Data Sources
+### Ketentuan Dataset
+1. Pilihlah dataset yang paling nyaman digunakan karena tidak ada batasan untuk memilih dataset dalam mengerjakan *Milestones 2*. 
 
-Student dapat memilih dataset dari salah satu repository dibawah ini. Pilihlah dataset yang paling nyaman digunakan karena tidak ada batasan untuk memilih dataset dalam mengerjakan *Milestones 2*. Konsultasikan terlebih dahulu dataset yang hendak digunakan ke buddy masing-masing student. Jika disetujui, maka silakan dikerjakan. Jika tidak disetujui, maka cari dataset yang lain dan konsultasikan lagi mengenai dataset yang baru ini.
+2. Konsultasikan terlebih dahulu dataset yang hendak digunakan ke buddy masing-masing student. Jika disetujui, maka silakan dikerjakan. Jika tidak disetujui, maka cari dataset yang lain dan konsultasikan lagi mengenai dataset yang baru ini.
 
-Popular open data repositories
+3. Student tidak boleh menggunakan dataset yang sudah dipakai dalam tugas Live Code, Graded Challenge, Non Graded Challenge, dan Milestone dari Phase 0 hingga Phase 1.
+
+4. Student juga tidak boleh menggunakan dataset yang sudah dipakai dalam sesi pembelajaran saat dikelas bersama instruktur.
+
+5. Carilah dataset yang baru untuk tugas Milestone 2 ini.
+
+### Data Sources
+Student dapat memilih dataset dari salah satu repository dibawah ini. Popular open data repositories
 
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
@@ -84,23 +90,33 @@ Other pages listing many popular open data repositories
 
 6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (jika melakukan Model Deployment).
 
-7. Presentasikan model yang telah dibuat pada P2W1D3AMPM.
+7. Presentasikan model yang telah dibuat pada P2W1D3AM.
 
 ## Assignment Submission
 
 - Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone2P1_<nama-student>.ipynb`, misal `h8dsft_Milestone2P1_raka_ardhi.ipynb`.
 - Push assignment yang telah dibuat ke akun Github masing-masing.
 - Jika melakukan Model Deployment ke Heroku :
-  * Push juga semua file yang berkaitan dengan deployment ke repository. Akan lebih bagus jika semua file deployment berada dalam satu folder yang sama.
+  * Buat sebuah folder bernama `deployment` dan masukkan semua file yang berkaitan dengan deployment ke folder ini.
   * Buat sebuah file bernama `url.txt` yang berisi URL Dataset dan URL deployment.
+  * Contoh bentuk isi repository dengan deployment.
+    ```
+    ├── deployment
+    │   ├── frontend.py
+    │   └── backend.py
+    │   └── model.pkl
+    ├── h8dsft_Milestone2P1_raka_ardhi.ipynb
+    ├── url.txt
+    └── README.md
+    ```
 
 ## Assignment Objectives
 
 *Milestones 2* ini dibuat guna mengevaluasi Pembelajaran Phase 1:
 
-- Mampu memahami konsep supervised learning
-- Mampu mempersiapkan data untuk digunakan dalam model supervised learning
-- Mampu mengimplementasikan supervised learning dengan data yang diberikan
+- Mampu memahami konsep supervised learning dan unsupervised learning
+- Mampu mempersiapkan data untuk digunakan dalam model supervised learning dan unsupervised learning
+- Mampu mengimplementasikan supervised learning dan unsupervised learning dengan dataset yang baru
 - Mampu melakukan evaluasi model
 - Mampu melakukan model tuning
 
@@ -114,7 +130,7 @@ Other pages listing many popular open data repositories
 | --- | --- | --- |
 | Feature Engineering | Mampu melakukan proses Feature Engineering sebelum melakukan proses modeling | 30 pts |
 | Pipelines | Mampu membangun Pipeline | 40 pts |
-| Modeling | Membuat model dengan kasus yang dipilih dengan Scikit-Learn | 40 pts |
+| Modeling | Membuat model dengan kasus yang dipilih dengan Scikit-Learn (minimal 4 algoritma berbeda) | 40 pts |
 | Model Evaluation | Mampu melakukan model evaluation dengan Scikit-Learn | 30 pts |
 | Model Improvement | Mampu melakukan model improvement dengan Scikit-Learn | 40 pts |
 | Model Inference | Mencoba model yang telah dibuat dengan data baru | 20 pts |
