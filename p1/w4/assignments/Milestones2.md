@@ -19,9 +19,9 @@ Silakan memilih topik *Milestones 2* antara *Regression*, *Classification* atau 
 
 3. Student tidak boleh menggunakan dataset yang sudah dipakai dalam tugas Live Code, Graded Challenge, Non Graded Challenge, dan Milestone dari Phase 0 hingga Phase 1.
 
-4. Student juga tidak boleh menggunakan dataset yang sudah dipakai dalam sesi pembelajaran saat dikelas bersama instruktur.
+4. Student juga tidak boleh menggunakan dataset yang sudah dipakai dalam sesi pembelajaran saat dikelas bersama instruktur. Carilah dataset yang baru untuk tugas Milestone 2 ini.
 
-5. Carilah dataset yang baru untuk tugas Milestone 2 ini.
+5 **Student dilarang untuk melakukan scraping dataset** karena dikhawatirkan proses pembuatan scraper dan proses scraping akan memakan waktu. Gunakan public dataset yang tersedia diberbagai macam situs Internet.
 
 ### Data Sources
 Student dapat memilih dataset dari salah satu repository dibawah ini. Popular open data repositories
@@ -42,7 +42,6 @@ Other pages listing many popular open data repositories
 - [Quora.com](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [The datasets subreddit](https://www.reddit.com/r/datasets)
 - Sumber lain yang kredibel.
-- **Student dilarang untuk melakukan scraping dataset** karena dikhawatirkan proses pembuatan scraper dan proses scraping akan memakan waktu. Gunakan public dataset yang tersedia diberbagai macam situs Internet.
 
 ## Assignment Instructions
 
