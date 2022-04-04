@@ -8,7 +8,7 @@ Untuk *Milestones 2*, student akan membuat sebuah model machine learning dengan 
 
 ## Topik
 
-Silakan memilih topik *Milestones 2* antara *Regression*, *Classification* atau *Clustering*.
+Silakan memilih topik *Milestones 2* antara *Regression*, *Classification*, atau *Clustering*.
 
 ## Dataset
 
@@ -45,7 +45,7 @@ Other pages listing many popular open data repositories
 
 ## Assignment Instructions
 
-*Milestones 2* dikerjakan dalam format ***notebook*** dengan ***model deployment (opsional)*** dengan beberapa *kriteria wajib* di bawah ini:
+*Milestones 2* dikerjakan dalam format ***notebook*** dan ***model deployment*** dengan beberapa *kriteria wajib* di bawah ini:
 
 1. Machine learning framework yang digunakan adalah *Scikit-Learn*.
 
@@ -87,7 +87,7 @@ Other pages listing many popular open data repositories
 
 5. *Notebook* harus diupload dalam akun GitHub masing-masing siswa untuk selanjutnya dinilai.
 
-6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy (jika melakukan Model Deployment).
+6. Penilaian project dilakukan berdasarkan *notebook* dan *service/API* model yang sudah di-deploy.
 
 7. Presentasikan model yang telah dibuat pada P2W1D3AM.
 
@@ -95,10 +95,10 @@ Other pages listing many popular open data repositories
 
 - Simpan assignment pada sesi ini dengan nama `h8dsft_Milestone2P1_<nama-student>.ipynb`, misal `h8dsft_Milestone2P1_raka_ardhi.ipynb`.
 - Push assignment yang telah dibuat ke akun Github masing-masing.
-- Jika melakukan Model Deployment ke Heroku :
+- Untuk Model Deployment ke Heroku :
   * Buat sebuah folder bernama `deployment` dan masukkan semua file yang berkaitan dengan deployment ke folder ini.
   * Buat sebuah file bernama `url.txt` yang berisi URL Dataset dan URL deployment.
-  * Contoh bentuk isi repository dengan deployment.
+  * Contoh bentuk isi repository dengan Model Deployment.
     ```
     ├── deployment/
     │   ├── frontend.py
@@ -118,6 +118,7 @@ Other pages listing many popular open data repositories
 - Mampu mengimplementasikan supervised learning dan unsupervised learning dengan dataset yang baru
 - Mampu melakukan evaluasi model
 - Mampu melakukan model tuning
+- Mampu melakukan model deployment
 
 ---
 
@@ -149,17 +150,16 @@ Other pages listing many popular open data repositories
 | Overall Analysis | Menarik informasi/kesimpulan dari keseluruhan kegiatan yang dilakukan | 20 pts |
 
 
-### Model Deployment (Bonus Point) (Optional)
+### Model Deployment
 
 | Criteria | Meet Expectations | Points |
 | --- | --- | --- |
-| Model Deployment | Membuat webapps terhadap project yang telah dibuat. | 30 pts |
+| Model Deployment | Membuat webapps terhadap project yang telah dibuat. | 10 pts |
 
 ---
 
 ```
-Total Points (tanpa Deployment)  : 270
-Total Points (dengan Deployment) : 300
+Total Points : 280
 
 Catatan : Penilaian Milestone 2 juga dapat dipengaruhi oleh aktivitas student selama Phase 1 berlangsung, baik sesi kelas maupun sesi mentoring dengan buddy-nya masing-masing sehingga terdapat kemungkinan adanya penambahan atau pengurangan nilai diluar rubric yang telah disebutkan diatas.
 ```
